@@ -40,7 +40,12 @@ public final class Autoputevi {
             new Autoput("AT", "S31", "Burgenland Schnellstraße (Eisenstadt)", "autoputevi/at-s31.json"),
             new Autoput("AT", "S33", "Kremser Schnellstraße (St. Pölten – Traismauer)", "autoputevi/at-s33.json"),
             new Autoput("AT", "S35", "Brucker Schnellstraße (Bruck – Graz)", "autoputevi/at-s35.json"),
-            new Autoput("AT", "S36", "Murtal Schnellstraße (St. Michael – Judenburg)", "autoputevi/at-s36.json")
+            new Autoput("AT", "S36", "Murtal Schnellstraße (St. Michael – Judenburg)", "autoputevi/at-s36.json"),
+            new Autoput("AT", "S3", "Weinviertler Schnellstraße (Stockerau – Guntersdorf)", "autoputevi/at-s3.json"),
+            new Autoput("AT", "S4", "Mattersburger Schnellstraße", "autoputevi/at-s4.json"),
+            new Autoput("AT", "S7", "Fürstenfelder Schnellstraße", "autoputevi/at-s7.json"),
+            new Autoput("AT", "S16", "Arlberg Schnellstraße (Landeck – St. Anton)", "autoputevi/at-s16.json"),
+            new Autoput("AT", "S37", "Klagenfurter Schnellstraße (St. Veit – Klagenfurt)", "autoputevi/at-s37.json")
     );
 
     /** Redosled zemalja na početnom ekranu. */
