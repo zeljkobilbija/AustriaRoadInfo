@@ -14,10 +14,6 @@ public final class Autoputevi {
     private Autoputevi() { }
 
     public static final List<Autoput> SVE = Arrays.asList(
-            // Nemačka
-            // Francuska
-            // Italija
-            // Austrija
             new Autoput("AT", "A1", "Wien – Linz – Salzburg", "autoputevi/at-a1.json"),
             new Autoput("AT", "A2", "Wien – Graz – Klagenfurt – Villach", "autoputevi/at-a2.json"),
             new Autoput("AT", "A3", "Wien – Eisenstadt", "autoputevi/at-a3.json"),
@@ -44,11 +40,7 @@ public final class Autoputevi {
             new Autoput("AT", "S31", "Burgenland Schnellstraße (Eisenstadt)", "autoputevi/at-s31.json"),
             new Autoput("AT", "S33", "Kremser Schnellstraße (St. Pölten – Traismauer)", "autoputevi/at-s33.json"),
             new Autoput("AT", "S35", "Brucker Schnellstraße (Bruck – Graz)", "autoputevi/at-s35.json"),
-            new Autoput("AT", "S36", "Murtal Schnellstraße (St. Michael – Judenburg)", "autoputevi/at-s36.json"),
-            // Švajcarska
-            // Holandija
-            // Belgija
-            // Luksemburg
+            new Autoput("AT", "S36", "Murtal Schnellstraße (St. Michael – Judenburg)", "autoputevi/at-s36.json")
     );
 
     /** Redosled zemalja na početnom ekranu. */
