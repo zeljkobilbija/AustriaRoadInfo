@@ -1,0 +1,41 @@
+NASLOV:
+Austria Road Info: Motorways
+
+KRATAK OPIS:
+Exits, service areas, fuel and traffic news on every Austrian motorway.
+
+PUN OPIS:
+On the road in Austria and need fuel, a coffee, a restroom or a place to rest? Austria Road Info shows what's ahead on every Austrian motorway and expressway – exit by exit, sorted by kilometre, in your direction of travel.
+
+Pick a motorway and your direction, and you get:
+• every exit and interchange with its kilometre
+• service areas and rest areas on your side of the road
+• fuel stations with brand logos, restaurants and facilities (WC, showers, shop, hotel)
+• EV chargers and truck parking spaces
+• phone number and website where available
+• Austrian average price of petrol (Super 95), diesel and LPG, updated weekly
+
+DRIVING MODE
+Start Driving mode and the app finds the motorway you are on, the kilometre (matching the exit numbers) and your direction, and shows the next exits, service areas and fuel stations ahead. When you change motorway, the list follows you. Stop it with one tap or by closing the app.
+
+TRAFFIC NEWS
+Accidents, queues, closures and roadworks from EVIS.AT / ASFINAG, with direction. With notifications on, you get alerts for the motorway you selected or the one you are driving on.
+
+COVERAGE
+32 motorways and expressways: A1 West Autobahn, A2 South Autobahn, A4, A9 Pyhrn, A10 Tauern, A12 Inn Valley, A13 Brenner, A14 Rhine Valley and all main S expressways.
+
+WORKS OFFLINE
+All motorway data is built into the app, so the list works without signal. Only traffic news and fuel prices need a connection.
+
+MADE FOR DRIVERS
+• one tap opens navigation to the place
+• share any service area or exit
+• filters: fuel, food, parking, exits, EV charging
+• no account, no sign-up; your location stays on your phone
+• one-time purchase to remove ads
+• 18 languages
+
+DATA SOURCES
+Motorway data © OpenStreetMap contributors (ODbL). Traffic: EVIS.AT / ASFINAG (CC BY 4.0 ASFINAG). Fuel prices: weekly national average (fuel-prices.eu, EU Weekly Oil Bulletin), not the price at a specific station.
+
+Independent app, not affiliated with ASFINAG or any government agency. The motorway vignette is not included. Always follow road signs and traffic rules; do not use your phone while driving.

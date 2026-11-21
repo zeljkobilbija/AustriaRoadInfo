@@ -1,0 +1,41 @@
+NASLOV:
+Austria Road Info: Autobahn AT
+
+KRATAK OPIS:
+Ausfahrten, Raststationen, Tanken und Verkehr auf Österreichs Autobahnen.
+
+PUN OPIS:
+Unterwegs in Österreich und auf der Suche nach Tankstelle, Kaffee, WC oder einem Rastplatz? Austria Road Info zeigt, was vor Ihnen liegt – auf allen Autobahnen und Schnellstraßen, Ausfahrt für Ausfahrt, nach Kilometer sortiert, in Ihrer Fahrtrichtung.
+
+Autobahn und Richtung wählen, und Sie sehen:
+• jede Ausfahrt und jeden Knoten mit Kilometer
+• Raststationen und Rastplätze auf Ihrer Straßenseite
+• Tankstellen mit Markenlogo, Restaurants und Ausstattung (WC, Duschen, Shop, Hotel)
+• E-Ladestationen und Lkw-Stellplätze
+• Telefonnummer und Website, wo vorhanden
+• österreichischer Durchschnittspreis für Super 95, Diesel und Autogas, wöchentlich aktualisiert
+
+FAHRMODUS
+Starten Sie den Fahrmodus: Die App erkennt die Autobahn, den Kilometer (wie die Ausfahrtsnummern) und Ihre Richtung und zeigt die nächsten Ausfahrten, Raststationen und Tankstellen vor Ihnen. Beim Wechsel der Autobahn folgt die Liste automatisch. Beenden mit einem Tipp oder durch Schließen der App.
+
+VERKEHRSMELDUNGEN
+Unfälle, Staus, Sperren und Baustellen von EVIS.AT / ASFINAG, mit Richtung. Mit Benachrichtigungen erhalten Sie Meldungen für die gewählte Autobahn oder die, auf der Sie gerade fahren.
+
+ABDECKUNG
+32 Autobahnen und Schnellstraßen: A1 Westautobahn, A2 Südautobahn, A4, A9 Pyhrn, A10 Tauern, A12 Inntal, A13 Brenner, A14 Rheintal und alle wichtigen S-Straßen.
+
+FUNKTIONIERT OFFLINE
+Alle Autobahndaten sind in der App enthalten, die Liste funktioniert auch ohne Empfang. Nur Verkehrsmeldungen und Treibstoffpreise brauchen Internet.
+
+FÜR AUTOFAHRER GEMACHT
+• ein Tipp startet die Navigation zum Ort
+• Raststation oder Ausfahrt teilen
+• Filter: Tanken, Essen, Parken, Ausfahrten, E-Laden
+• kein Konto, keine Anmeldung; Ihr Standort bleibt auf dem Handy
+• einmaliger Kauf entfernt die Werbung
+• 18 Sprachen
+
+DATENQUELLEN
+Autobahndaten © OpenStreetMap-Mitwirkende (ODbL). Verkehr: EVIS.AT / ASFINAG (CC BY 4.0 ASFINAG). Treibstoffpreise: wöchentlicher Landesdurchschnitt (fuel-prices.eu, EU-Ölbulletin), nicht der Preis einer bestimmten Tankstelle.
+
+Unabhängige App, nicht verbunden mit der ASFINAG oder einer Behörde. Die Vignette ist nicht enthalten. Beachten Sie immer Verkehrszeichen und Verkehrsregeln; bedienen Sie das Handy nicht während der Fahrt.
