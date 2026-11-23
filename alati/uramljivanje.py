@@ -12,11 +12,11 @@ SIROVO = os.path.join(KOREN, 'sirovo')
 # (fajl, donja ivica isečka: liste imaju reklamu na dnu, detalji nemaju)
 SNIMCI = [(1, 2000), (2, 2000), (3, 2000), (4, 2200), (5, 2000)]   # sirovo/<jezik><n>.png (aplikacija na tom jeziku)
 NASLOVI = {
-    'fr': ['Toutes les autoroutes de France, même hors ligne', 'Sorties et aires de service, par kilomètre',
-           'Infos trafic Bison Futé', 'Carburants, services et prix moyens',
-           'Filtrer : carburant, repas, parkings'],
-    'en': ['Every French motorway, even offline', 'Exits and service areas by kilometre',
-           'Traffic news from Bison Futé', 'Fuel brands, facilities and average prices',
+    'de': ['Alle Autobahnen Österreichs, auch offline', 'Ausfahrten und Raststationen nach Kilometer',
+           'Verkehrsmeldungen von ASFINAG', 'Tankstellen, Ausstattung und Durchschnittspreise',
+           'Filter: Tanken, Essen, Parken'],
+    'en': ['Every Austrian motorway, even offline', 'Exits and service areas by kilometre',
+           'Traffic news from ASFINAG', 'Fuel brands, facilities and average prices',
            'Filter: fuel, food, parking'],
 }
 W, H = 1080, 1920
@@ -27,9 +27,9 @@ def gradijent():
     im = Image.new('RGB', (W, H)); d = ImageDraw.Draw(im)
     for y in range(H):
         t = y / H
-        d.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip((22, 60, 130), (20, 24, 36))))
-    for i, boja in enumerate([(0, 85, 164), (255, 255, 255), (239, 65, 53)]):  # trobojka
-        d.rectangle([i * W // 3, 0, (i + 1) * W // 3, 10], fill=boja)
+        d.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip((120, 20, 35), (20, 24, 36))))
+    for i, boja in enumerate([(200, 16, 46), (255, 255, 255), (200, 16, 46)]):  # crveno-belo-crveno
+        d.rectangle([0, i * 6, W, i * 6 + 5], fill=boja)   # vodoravne pruge kao zastava
     return im
 
 
@@ -63,4 +63,4 @@ for jezik, naslovi in NASLOVI.items():
         can.paste(senka, (x0 - 40, y0 - 30), senka)
         can.paste(s, (x0, y0), maska)
         can.save(os.path.join(KOREN, f'{jezik}_{i}.png'))
-print('play/snimci: fr_1..5, en_1..5')
+print('play/snimci: de_1..5, en_1..5')
